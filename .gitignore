@@ -1,0 +1,107 @@
+# .NET Core
+bin/
+obj/
+
+# Visual Studio files
+.vscode/
+*.suo
+*.user
+*.sln.docstates
+
+# Rider files
+.idea/
+
+# User-specific files
+*.suo
+*.user
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Visual Studio cache directories
+ipch/
+*.dbmdl
+*.sdf
+*.opensdf
+*.VC.db
+
+# Visual Studio debugging
+[Tt]est[Rr]esult*/
+[Bb]in/
+[Dd]ebug*/
+[Rr]elease*/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+[Ll][Oo][Gg][Ss]/
+[Ll][Oo][Gg][Ss]/[Dd][Ee][Bb][Uu][Gg]/
+[Ll][Oo][Gg][Ss]/[Rr][Ee][Ll][Ee][Aa][Ss][Ee]/
+[Ll][Oo][Gg][Ss]/[Xx][8x][6x]/
+
+# Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
